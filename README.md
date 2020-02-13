@@ -1,4 +1,5 @@
-# jhu-social-mobility-v.s.-income-composition-data-analytics
+# JHU-Social-Mobility-V.S.-Income-Composition-Data-Analytics
+### Description
 In both China and the US, people are talking about sexism (sex-based discrimination), urging others to change and take actions. In the same time, some parents in China let their children to have their own businesses in other city, while others doesn't. In this analytic resreach, I find out that the **household income from female** across all the percentile of parents' income in both New York and Baltimore **are higher** than **household income from male**. Also, the **posibility** of people staying in the same city **decreases as** the percentile of **parents' income increases**.
 ![alt text](https://github.com/LTLUTUO/jhu-social-mobility-data-analytics/blob/master/%25%20of%20Income.png)
 ![alt text](https://github.com/LTLUTUO/jhu-social-mobility-data-analytics/blob/master/Table%201.png)
