@@ -11,6 +11,10 @@ In both China and the US, people are talking about sexism (sex-based discriminat
 * The source data.csv for [household income](https://drive.google.com/open?id=18thxiin5Coch_dJB2bPFJEFt-wvZPcbE) and [city population movement](https://drive.google.com/open?id=1r8nIoU-54hhI21YRFsSDj3o6LNqZMtCW) are extracted from [The Opportunity Atlas](https://www.opportunityatlas.org/). Then some classification for the source data are done to the .csv. For example, through searching, I found out that the city code inside the tracts for New York is 360, and the city code for Baltimore is 245. Thus, I extracted the citycode from the tracts code, and sorted them by the code.
 * Then I created a [formatted excel](https://drive.google.com/open?id=1EwI1hCwHIGekl9HoPNVxq5DZmFLGRixs) to consolidate the information from both .csv. During the process, Vlookup is being used for a lof of time, along with If. After that, a consolidated table for calculation is created.
 * At last, Two pivot tables are created to enable the making of two charts.
+### Component
+* [household income.csv](https://drive.google.com/open?id=18thxiin5Coch_dJB2bPFJEFt-wvZPcbE)
+* [city population movement.csv](https://drive.google.com/open?id=1r8nIoU-54hhI21YRFsSDj3o6LNqZMtCW)
+* [formatted excel.xlsx](https://drive.google.com/open?id=1EwI1hCwHIGekl9HoPNVxq5DZmFLGRixs)
 ### Reference
 * [The Opportunity Atlas](https://www.opportunityatlas.org/)
 * [Lecture from Data Analytics](https://docs.google.com/presentation/d/1xdsb4yoo8g5ccGGfVDLLO0cm_WWsHqwoU2rMjqr951E/edit#slide=id.g76b6f65729_0_529)
